@@ -341,16 +341,29 @@ This makes the website an experience around NIRVAN rather than just a collection
 
 ---
 OUR HEIGHLITED FEATURES :-
-1) <img width="1090" height="882" alt="image" src="https://github.com/user-attachments/assets/b123c0b7-2134-401c-b770-f41a04114fc3" />
-~ help desk 
-2) <img width="712" height="282" alt="image" src="https://github.com/user-attachments/assets/5e3c58b5-1788-42d3-b7a5-2a705d8b0798" />
-~ timer for closing upcomig event registration .
+
+
+1)~ help desk
+
+<img width="1090" height="882" alt="image" src="https://github.com/user-attachments/assets/b123c0b7-2134-401c-b770-f41a04114fc3" />
+
+
+2) ~ timer for closing upcomig event registration .
+
+<img width="712" height="282" alt="image" src="https://github.com/user-attachments/assets/5e3c58b5-1788-42d3-b7a5-2a705d8b0798" />
+
 3) introduction of nirwan .
+
 <img width="1107" height="657" alt="image" src="https://github.com/user-attachments/assets/2e21d9c4-bad8-4f22-9ff5-a911f83f4b2e" />
+
 <img width="1106" height="892" alt="image" src="https://github.com/user-attachments/assets/d37de6a9-8c03-4460-868b-36383a9cf8b2" />
+
 4) 4 pillar of nirwan 
+
 <img width="1125" height="907" alt="image" src="https://github.com/user-attachments/assets/98c4079d-218d-42c8-9371-daf4bd5ea471" />
+
 5)## Event Filtering System
+
  <img width="1127" height="915" alt="image" src="https://github.com/user-attachments/assets/4ca13c59-aac1-4912-8a07-c1d976815d36" />
 
 
@@ -685,35 +698,59 @@ Instead of manually searching through different event pages, users can:
 5. Read event details.
 6. Add important events to their calendar.
 
+
 This makes the 48-hour fest schedule **organized, searchable, track-specific, and easy to follow**.
-8) prize calculator 
+
+8)prize calculator 
+
 <img width="1105" height="897" alt="image" src="https://github.com/user-attachments/assets/d28128a0-0dc3-4d7e-bb2f-13a4631e67c5" />
+
 <img width="1127" height="927" alt="image" src="https://github.com/user-attachments/assets/622ae239-8377-4a11-9497-4d10e4c551ce" />
+
 9) sponsors 
+
 <img width="1115" height="902" alt="image" src="https://github.com/user-attachments/assets/b65c737f-da18-4921-b89d-e30ecdcdb3f1" />
+
 <img width="1117" height="906" alt="image" src="https://github.com/user-attachments/assets/25b8c746-988c-47a9-9704-11fcf24d9644" />
+
 10) event gallery 
+
 <img width="1130" height="905" alt="image" src="https://github.com/user-attachments/assets/a4c91483-5e03-49c6-ba28-ffbf6f4d8973" />
+
 11) FREQUENTLY ASKED QUESTIONS
+
 <img width="1126" height="906" alt="image" src="https://github.com/user-attachments/assets/4273c9db-45dc-4261-918f-d149e4c95d8b" />
+
 12)  GEHU HELP DESK
+
 <img width="1117" height="907" alt="image" src="https://github.com/user-attachments/assets/53eb4927-fd70-4884-8a4f-7b534418d527" />
+
 <img width="1097" height="896" alt="image" src="https://github.com/user-attachments/assets/32a52406-982a-498c-92f5-fe691d3c5b6a" />
+
 13) REGISTRATION PROCESS 
+
+
 <img width="1110" height="887" alt="image" src="https://github.com/user-attachments/assets/5aab08d6-bd91-418e-8e9b-20d5bb7ea374" />
+
 EVENT SELECTION 
+
 <img width="1096" height="887" alt="image" src="https://github.com/user-attachments/assets/e11d9c23-7e29-43ec-a845-ac39d5e5b753" />
+
 CHECKOUT PAGE AND PAYMENT PAGE 
+
 <img width="1065" height="890" alt="image" src="https://github.com/user-attachments/assets/8b847c0c-9d96-41a4-a004-0bee1232e7b2" />
+
 PROMO CODE APPLY AND PAYMENT PAGE 
+
 <img width="1121" height="892" alt="image" src="https://github.com/user-attachments/assets/2b889ade-3940-4255-ac2c-5e4634a14366" />
+
 14) TEAM QR CODE GENRATION FOR ATTENDACE / PAYMENT DONE 
+
 <img width="1122" height="896" alt="image" src="https://github.com/user-attachments/assets/c901fa13-e67e-43cc-a4e9-934012374c7b" />
+
 U CAN ALSO PRINT THIS QR CODE AND PAYMENT SUCCESFULL PAGE 
+
 <img width="1445" height="937" alt="image" src="https://github.com/user-attachments/assets/9250078d-36e9-432c-b361-2ec243314f65" />
-
-
-
 
 
 
