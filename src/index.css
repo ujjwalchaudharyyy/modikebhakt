@@ -6,11 +6,41 @@
   --font-display: "Space Grotesk", "Inter", ui-sans-serif, system-ui, sans-serif;
   --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
   --font-mono: "JetBrains Mono", ui-monospace, monospace;
+  --font-poppins: "Poppins", "Inter", ui-sans-serif, system-ui, sans-serif;
 
   --color-neon: #00f5d4;
   --color-neon2: #7c3aed;
   --color-neon3: #ff2e97;
   --color-ink: #05060f;
+
+  --animate-float-slow: float-slow 9s ease-in-out infinite;
+  --animate-float-slower: float-slower 13s ease-in-out infinite;
+  --animate-text-shine: text-shine 7s linear infinite;
+  --animate-spin-slow: spin 2.6s linear infinite;
+
+  @keyframes float-slow {
+    0%,
+    100% {
+      transform: translate3d(0, 0, 0) scale(1);
+    }
+    50% {
+      transform: translate3d(0, -28px, 0) scale(1.06);
+    }
+  }
+  @keyframes float-slower {
+    0%,
+    100% {
+      transform: translate3d(0, 0, 0) scale(1);
+    }
+    50% {
+      transform: translate3d(-22px, 24px, 0) scale(1.08);
+    }
+  }
+  @keyframes text-shine {
+    to {
+      background-position: 100% center;
+    }
+  }
 }
 
 @layer base {
