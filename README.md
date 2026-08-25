@@ -396,4 +396,12 @@ This project is created for the **NIRVAN '26 technical fest project at Graphic E
 
 🌐 https://nirwana-193.vercel.app/
 
+## 👥 Team
+
+### Tech4All
+
+A collaborative team focused on building a more engaging and campus-connected digital experience for NIRVAN '26.
+
+> **NIRVAN '26 — Where Ideas Become Innovation**
+
 </div>
