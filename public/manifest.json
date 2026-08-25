@@ -1,0 +1,17 @@
+{
+  "name": "NIRVAN '26 - GEHU Haldwani Tech Fest",
+  "short_name": "NIRVAN 26",
+  "description": "Annual Tech Fest of Graphic Era Hill University, Haldwani",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060913",
+  "theme_color": "#060913",
+  "icons": [
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
