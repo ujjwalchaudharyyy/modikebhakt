@@ -83,13 +83,9 @@ The platform follows a user-focused architecture where the website acts as the c
 
 ### Frontend
 
-The project is deployed as a modern web application and its frontend is responsible for:
-
-- Interactive user interface
-- Event and fest information
-- Animations and transitions
-- Campus-based visual experience
-- Registration/login journey
+- **TypeScript / TSX** — Used for building the interactive frontend components and application logic.
+- **HTML** — Used for the structure and semantic content of the website.
+- **CSS** — Used for styling, layouts, animations, responsiveness, and the overall visual design.
 
 ### Authentication
 
@@ -99,8 +95,18 @@ The project is deployed as a modern web application and its frontend is responsi
 
 ### Deployment
 
-- **Vercel**
-- Live deployment: https://nirwana-193.vercel.app/
+- **Vercel** — Used to deploy and host the live website.
+
+### Technologies at a Glance
+
+| Technology | Purpose |
+|---|---|
+| TypeScript / TSX | Interactive frontend components and application logic |
+| HTML | Website structure and content |
+| CSS | Styling, layout, animations, and responsive design |
+| ERP Authentication | Student login and registration |
+| Vercel | Deployment and hosting |
+
 
 > **Note:** The provided project documentation does not list the exact frontend framework, programming language, database, or backend services. These should be added here from the actual repository implementation rather than being guessed.
 
